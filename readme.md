@@ -1,6 +1,6 @@
 <h1 align="center">Formulário.</h1>
 <p>🚀 Formulário para entrar em contato com o dono do site.</p>
-<h4>Status do projeto: Concluido.</h4>
+<h4>Status do projeto: Concluido...</h4>
 
 <h1>Link para acessar o site: https://gabriel-eustaquio.github.io/formulario/</h1>
 
