@@ -1,0 +1,47 @@
+body {
+  font-family: "Work Sans", sans-serif;
+  background-color: #f7f7f7;
+}
+body,
+h1,
+label,
+input {
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+form {
+  display: grid;
+  justify-content: center;
+}
+form label {
+  padding: 10px 0;
+}
+form input {
+  border-top: none;
+  border-right: none;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  border-left: none;
+  outline: none;
+  font-size: 1rem;
+  background-color: transparent;
+}
+form textarea {
+  margin-bottom: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  outline: none;
+  background-color: transparent;
+  font-size: 1rem;
+}
+form button {
+  justify-self: start;
+  padding: 8px 16px;
+  text-transform: uppercase;
+  background-color: #e9a0fb;
+  border: none;
+  outline: none;
+}
